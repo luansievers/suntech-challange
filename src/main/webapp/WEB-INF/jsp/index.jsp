@@ -37,25 +37,6 @@
                 </div>
             </div>
         </form:form>
-        <%--<form method="POST" action="/filter">--%>
-            <%--<div class="form-row align-items-end">--%>
-                <%--<div class="col-sm-3 my-1">--%>
-                    <%--<label for="username">Username</label>--%>
-                    <%--<input type="text" class="form-control mb-2" id="username" placeholder="Enter username"/>--%>
-                <%--</div>--%>
-                <%--<div class="col-sm-3 my-1">--%>
-                    <%--<label for="name">Name</label>--%>
-                    <%--<input type="text" class="form-control mb-2" id="name" placeholder="Enter name"/>--%>
-                <%--</div>--%>
-                <%--<div class="col-sm-3 my-1">--%>
-                    <%--<label for="email">Email</label>--%>
-                    <%--<input type="email" class="form-control mb-2" id="email" placeholder="Enter email"/>--%>
-                <%--</div>--%>
-                <%--<div class="col-sm-3 my-1">--%>
-                    <%--<button type="submit" class="btn btn-primary mb-2">Filter</button>--%>
-                <%--</div>--%>
-            <%--</div>--%>
-        <%--</form>--%>
         <div class="table-responsive">
             <table class="table">
                 <thead>
